@@ -9,7 +9,7 @@ Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
 
 ## Installasi
 ```
-git clone https://github.com/rafipriatna/LaraPos
+git clone https://github.com/laraPOS-laravel7/LaraPos
 cd LaraPos
 composer install
 ```
